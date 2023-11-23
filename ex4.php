@@ -15,7 +15,8 @@
         </form>
         
 <!------------------------------------------------------------------------------------------------->
-
+<!-- Surface du cercle = (diamètre ÷2) x (diamètre ÷2) x π -->
+<!-- périmètre d'un cercle = 2 * rayon * PI  -->
         <?php
 $rayon = $_GET["rayon"];
 define("PI", 3.14);
