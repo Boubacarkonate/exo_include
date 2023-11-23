@@ -3,9 +3,9 @@
     include("header.php");
 ?>
     
-    
-        <h1>Exemples avec PHP</h1>
-    
+    <main>
+        <h1>TROISIEME EXEMPLE</h1>
+    </main>
 <?php
     include("footer.php");
 ?>
