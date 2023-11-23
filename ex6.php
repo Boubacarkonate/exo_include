@@ -18,7 +18,7 @@
     
    
         <h1>CINQUIEME EXEMPLE</h1>
-        <form action="ex5.php" method="post">
+        <form action="ex6.php" method="post">
             <label for=""> Trouver le nombre</label>
             <br>
             <input type="number" name="nbre" id="" >
@@ -26,6 +26,11 @@
             <br>
             <input type="submit" value="valider">
         </form>
+        <p>
+            <form action="" method="post">
+                <input type="submit" name="reinitialisation" value="REINITIALISER">
+            </form>
+        </p>
 
         <br>
         <br>
