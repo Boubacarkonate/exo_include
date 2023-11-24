@@ -9,6 +9,7 @@
                 <li><a href="ex6.php">Exemple6</a></li>
                 <li><a href="ex7.php">Exemple7</a></li>
                 <li><a href="ex8.php">Exemple8</a></li>
+                <li><a href="ex9.php">Exemple9</a></li>
             </ul>
         </nav>
     </header>
